@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
   late final NamesCubit cubit;
   @override
   void initState() {
-    // TODO: implement initState
+ 
     super.initState();
     cubit = NamesCubit();
   }
